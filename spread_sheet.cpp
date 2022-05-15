@@ -8,7 +8,7 @@
 #include <qwidget.h>
 #include <qevent.h>
 #include <qclipboard.h>
-#include <qscrollbar>
+#include <qscrollbar.h>
 #include <QStandardItemModel>
 #include <QMessageBox>
 #include <QFileDialog>
